@@ -1,0 +1,7 @@
+function foo() {
+    var bar = -1;
+    quux = 3; // Shadows global variable quux
+    function zip() {
+	var quux = 2;
+    }
+}
