@@ -51,6 +51,19 @@ Directory Contents:
 ## Elementary Electron `NodeSchool/elementaryelectron`
 [Make a desktop application using Node and Chromium with Electron.](https://github.com/maxogden/elementary-electron)
 
+Introduction to Electron and node modules
+
+Date Completed: Oct 10, 2016
+
+Directory Contents:
+* annotation.pdf
+* electron-install.sh
+* package.json
+* app.js
+* index.html
+* index.js
+* node_modules
+
 ## LearnYouNode `NodeSchool/lyn`
 [Learn the basics of node: asynchronous i/o, http.](https://github.com/workshopper/learnyounode)
 
